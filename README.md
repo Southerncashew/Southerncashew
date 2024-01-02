@@ -1,0 +1,4 @@
+- Hi, I’m Southerncashew
+- I’m interested in game develloping
+- I’m currently learning 2D Godot
+- I’m looking to collaborate on whatever
